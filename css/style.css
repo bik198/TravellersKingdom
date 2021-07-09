@@ -4,6 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Arbutus+Slab');
 @import url('https://fonts.googleapis.com/css?family=Athiti:400,500,600');
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -123,9 +124,9 @@ a,
 }
 
 .lead {
-    font-size: 18px;
+	font-size: 18px;
     line-height: 30px;
-    color: #767676;
+    /*color: red;*/
     margin: 0;
     padding: 0;
 }
@@ -163,7 +164,7 @@ button:focus{
 }
 
 .top-navbar .navbar{
-	padding: 15px 0px;
+	padding: 0px;
 	position: fixed;
 	width: 100%;
 	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
@@ -353,9 +354,11 @@ button:focus{
     font-size: 35px;
     font-weight: 300;
     line-height: 44px;
-    color: #fff;
-	font-family: 'Arbutus Slab', serif;
-	margin-bottom: 20px;
+	/*font-family: 'Mr Dafoe';*/
+	margin: 0;
+	color: white;
+	text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #fe05e1;
+	/*transform: rotate(-7deg);*/
 }
 
 .qt-background span {
