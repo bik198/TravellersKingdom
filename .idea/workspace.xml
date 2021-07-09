@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce2b65fa-6ca2-4b83-a2df-69d7008f293c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/anilbasnet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/anilkarki.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bikeshadhikari.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/domFlight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hikingTour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/intChinaTour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/intFlight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/intSingaporeTour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/raftingTour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logolong.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/about-img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-img-06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery-img-06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/qt-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/qt-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider-03.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625739358101</updated>
       <workItem from="1625739402835" duration="1541000" />
-      <workItem from="1625747774696" duration="12065000" />
+      <workItem from="1625747774696" duration="12746000" />
     </task>
     <servers />
   </component>
